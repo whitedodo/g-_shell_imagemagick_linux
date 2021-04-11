@@ -12,4 +12,4 @@
 -> GNU 라이센스를 적용받는다.
 3. ImageMagicK, https://imagemagick.org, Accessed by 2021-04-11, Last Modified 2021-04-11.
 -> GNU/GPL v3 License 라이센스를 적용받는다.
-4. LaunchPad, https://launchpad.net, Accessed by 2021-04-11, sdfsafasdfLast Modified 2021-04-11.sdfasdfsdfefassdfasdsafsadfsdfsafsd
+4. LaunchPad, https://launchpad.net, Accessed by 2021-04-11, Last Modified 2021-04-11
