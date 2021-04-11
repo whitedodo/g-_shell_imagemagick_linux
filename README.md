@@ -7,9 +7,9 @@
 ##### 비고(Description): 
 ##### 참고자료(Reference):
 ##### 1. 우분투(Ubuntu / Canonical Ltd), https://ubuntu.com, Accessed by 2021-04-11, Last Modified 2021-04-11.
--> GNU 라이센스를 적용받는다.
-2. CentOS(CentOS), https://www.centos.org, Accessed by 2021-04-11, Last Modified 2021-04-11.
--> GNU 라이센스를 적용받는다.
-3. ImageMagicK, https://imagemagick.org, Accessed by 2021-04-11, Last Modified 2021-04-11.
--> GNU/GPL v3 License 라이센스를 적용받는다.
-4. LaunchPad, https://launchpad.net, Accessed by 2021-04-11, Last Modified 2021-04-11
+##### -> GNU 라이센스를 적용받는다.
+##### 2. CentOS(CentOS), https://www.centos.org, Accessed by 2021-04-11, Last Modified 2021-04-11.
+##### -> GNU 라이센스를 적용받는다.
+##### 3. ImageMagicK, https://imagemagick.org, Accessed by 2021-04-11, Last Modified 2021-04-11.
+##### -> GNU/GPL v3 License 라이센스를 적용받는다.
+##### 4. LaunchPad, https://launchpad.net, Accessed by 2021-04-11, Last Modified 2021-04-11
